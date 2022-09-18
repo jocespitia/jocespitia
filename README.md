@@ -1,11 +1,16 @@
-### Hey y'all 👋🏽
+### Hi I'm Jocelyn 👋🏽
 
-#### I'm a System Engineer working from home in Los Angeles, California.
+<img align="right" height="300" alt="Chi typing on a computer" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"/>
 
-##### BIO
 
-- 🏢 I'm currently working at **Verizon**
-- ⚙️ I use daily: `.java`, `JSON`,`springboot`,`kibana`
-- 🌍 I'm mostly active within the **Rewriting the Code Community** 
-- 🌱 Learning all about **Cyber Security**
-- ⚡️ Fun fact: I'm a huge fan of music, it's truly an art
+#### I'm a Software Engineer working @ Verizon
+
+
+- 👩🏽‍💻 Techstack I use daily: `javascript`,`HTML`,`CSS`, `React`
+- 🌍 I'm mostly active within the **Rewriting the Code & Latinas in Tech Community** 
+- ⚡️ Hobbies: 
+  - 🎧 Music and Podcasts
+  - 🪡 Sewing, Knitting, and Fashion
+  - 📖 Reading
+  - 🧩 Puzzles
+- 🔷 [LinkedIn](https://www.linkedin.com/in/jocelyne1/)
